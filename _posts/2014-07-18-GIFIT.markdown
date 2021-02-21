@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Feb 2021
 client: Personal Project
 category: iOS Development
-description: A user fiendly gif maker app. GIFIT for iOS is the fastest, simplest way to gif animations from videos and share across all of your favorite social channels such as iMessage, Whatsapp, Facebook Messenger and more.
+description: A user friendly gif maker app. GIFIT for iOS is the fastest, simplest way to gif animations from videos and share across all of your favorite social channels such as iMessage, Whatsapp, Facebook Messenger and more.
 ---
