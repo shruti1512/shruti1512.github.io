@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2020-07-15
-img: cake.png
+img: Jeopardy.png
 alt: image-alt
 project-date: July 2020
 client: Personal Project
