@@ -4,6 +4,7 @@ modal-id: 1
 date: 2021-02-01
 img: GIFIT.png
 alt: image-alt
+thumbnail: GIFIT-thumb.png
 project-date: Feb 2021
 client: Personal Project
 category: iOS Development
