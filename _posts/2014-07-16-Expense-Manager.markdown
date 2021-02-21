@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2020-09-30
-img: circus.png
+img: Expense.png
 alt: image-alt
 project-date: September 2020
 client: Personal Project
