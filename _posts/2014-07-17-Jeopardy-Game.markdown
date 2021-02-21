@@ -4,6 +4,7 @@ modal-id: 2
 date: 2020-07-15
 img: Jeopardy.png
 alt: image-alt
+thumbnail: Jeopardy-thumb.png
 project-date: July 2020
 client: Personal Project
 category: iOS Development
