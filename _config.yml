@@ -1,5 +1,5 @@
 # Site settings
-title: Portfolio
+title: Shruti Sharma
 email: shrutisharma.la15@gmail.com
 url: https://github.com/shruti1512/shruti1512.github.io
 description: "Projects portfolio for Shruti Sharma, iOS developer based in Los Angeles"
@@ -34,7 +34,7 @@ color:
 footer:
   copyright: Shruti Sharma
   location: Los Angeles, California, US
-  social: Around the Web
+#   social: Around the Web
   credits: Website developed with Github Pages and Freelancer Jekyll theme
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
