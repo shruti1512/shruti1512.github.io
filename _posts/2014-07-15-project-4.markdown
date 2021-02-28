@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2021-02-15
+img: podcast-thumb.png
 alt: image-alt
-thumbnail: game.png
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+thumbnail: podcast-thumb.png
+project-date: Feb 2021
+client: Personal Project
+category: iOS Development
+description: The HearCast app is the easiest way to find, save and listen to all your favorite podcasts. Explore new podcasts across a variety of topics. Bookmark your favorite podcasts and download for offline listening.
 ---
