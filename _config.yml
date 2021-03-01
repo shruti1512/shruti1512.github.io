@@ -51,12 +51,12 @@ social:
     url: http://github.com/shruti1512
 
 # Postal address (add as many lines as necessary)
-address:
+# address:
 #   - line: 3481 Melrose Place
-  - line: Los Angeles, CA, USA
+#   - line: Los Angeles, CA, USA
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
